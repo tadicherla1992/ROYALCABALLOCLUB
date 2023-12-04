@@ -323,7 +323,9 @@ a {
   position: relative;
   margin-top: 20px;
 }
-
+.logo1{
+    width:80px;
+}
 .image {
   display: block;
   width: 100%;
@@ -608,7 +610,7 @@ button.btn.btn-primary, button.btn.btn-primary:hover, button.btn.btn-primary:foc
     padding: 25px 0px;
 }
 
-.dummy_text {
+.dum_text {
     width: 100%;
     float: left;
     font-size: 12pt;
